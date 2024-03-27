@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate Cybersecurity enthusiast with expertise in GRC (NIST Risk Management Framework)</h3>
 
+- I got fascinating with the world of protecting sensitive information and systems from cyber attacks, while taking a bootcamp class during the pandemic and fell in love it
 - 🔭 I’m currently working on **AWS Cloud home lab**
 
 - 🌱 I’m currently learning **in-depth Cybersecurity skills and techniques at The Knowledge House**
